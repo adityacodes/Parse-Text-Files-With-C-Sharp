@@ -1,0 +1,9 @@
+C:\Users\Aditya\Desktop\classwork\Parsetextfile\Parsetextfile\bin\Debug\Parsetextfile.exe.config
+C:\Users\Aditya\Desktop\classwork\Parsetextfile\Parsetextfile\bin\Debug\Parsetextfile.exe
+C:\Users\Aditya\Desktop\classwork\Parsetextfile\Parsetextfile\bin\Debug\Parsetextfile.pdb
+C:\Users\Aditya\Desktop\classwork\Parsetextfile\Parsetextfile\obj\Debug\Parsetextfile.csprojResolveAssemblyReference.cache
+C:\Users\Aditya\Desktop\classwork\Parsetextfile\Parsetextfile\obj\Debug\Parsetextfile.Form1.resources
+C:\Users\Aditya\Desktop\classwork\Parsetextfile\Parsetextfile\obj\Debug\Parsetextfile.Properties.Resources.resources
+C:\Users\Aditya\Desktop\classwork\Parsetextfile\Parsetextfile\obj\Debug\Parsetextfile.csproj.GenerateResource.Cache
+C:\Users\Aditya\Desktop\classwork\Parsetextfile\Parsetextfile\obj\Debug\Parsetextfile.exe
+C:\Users\Aditya\Desktop\classwork\Parsetextfile\Parsetextfile\obj\Debug\Parsetextfile.pdb
